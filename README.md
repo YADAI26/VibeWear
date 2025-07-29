@@ -3,9 +3,10 @@
 
 <div align="center">
   integrantes
-López Cruz David Eduardo - Frontend
   
-Salinas Montesinos Cintia Yadai - backend
+López Cruz David Eduardo: https://github.com/David-EduardoLC - Frontend
+  
+Salinas Montesinos Cintia Yadai ***En este perfil*** - backend
 
 Grupo: VSI
 
@@ -508,7 +509,11 @@ Tambien tenemos el apartado de ofertas
 
 <img width="1179" height="783" alt="image" src="https://github.com/user-attachments/assets/df4a318d-f77f-4d58-98f5-96a67f47d28d" />
 
+---
 
+Git Hub Pages link:
+
+https://yadai26.github.io/VibeWear/login
 
 ## Conclusión
 
