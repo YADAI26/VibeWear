@@ -432,6 +432,83 @@ Route::middleware(['auth:sanctum', 'role:admin'])->group(function () {
 });
 
 ```
+---
+
+## Acontinuacion te mostrare la ejecucion del navegador 
+
+***en esta parte mostrarmos el login del administrador el cual puede agregarr, editar y eliminar productos***
+
+<img width="993" height="766" alt="image" src="https://github.com/user-attachments/assets/c7242ea9-27e3-46b9-a2ba-6b69acfb11cd" />
+
+imagen de todos los productos 
+
+<img width="936" height="739" alt="image" src="https://github.com/user-attachments/assets/8aa27a06-a254-4e10-917f-7b1586c493ad" />
+
+EDITAR
+
+<img width="925" height="725" alt="image" src="https://github.com/user-attachments/assets/23001f0d-226e-4ea3-9f5e-81e0fee84aa4" />
+
+AGREGAR
+
+<img width="942" height="731" alt="image" src="https://github.com/user-attachments/assets/7b30811b-cd25-4616-adbf-1b2de5c05d50" />
+
+ VER TODOS LOS PRODUCTOS COMPRADOS 
+
+ <img width="991" height="511" alt="image" src="https://github.com/user-attachments/assets/58d3e087-6398-478e-a0e7-58029065dcf9" />
+ 
+---
+## Parte del cliente mostrada en navegador 
+ROL CLIENTE
+
+<img width="955" height="726" alt="image" src="https://github.com/user-attachments/assets/f1c28472-3772-43c6-9682-b6a00b275b29" />
+
+si no tienes cuenta te puedes registrar 
+
+<img width="1161" height="770" alt="image" src="https://github.com/user-attachments/assets/6c25e512-774f-4e7a-8126-4f4ee5abce08" />
+
+
+INICIO
+
+<img width="1016" height="773" alt="image" src="https://github.com/user-attachments/assets/69cb149c-2146-4761-a664-d096a86699c0" />
+
+
+CATEGORIA 
+EN ELLA SSE FILTRAN POR DOS CATEGORIAS HOMBRE Y MUJER 
+ 
+<img width="1014" height="770" alt="image" src="https://github.com/user-attachments/assets/3f759c82-8ab4-4e44-9acb-ef63257ca683" />
+
+CATEGORIA Hombre 
+
+<img width="1121" height="734" alt="image" src="https://github.com/user-attachments/assets/9e278c57-7e91-428a-808e-1880d2ac019f" />
+
+Al agregar una prenda/articulo nos vamos al carrito y vemos que se envio al carrito exitosamente 
+
+<img width="1101" height="721" alt="image" src="https://github.com/user-attachments/assets/ed9427f6-c727-4ce1-9804-8feda32e25a6" />
+
+para ello le damos continuar con el pago 
+
+<img width="1114" height="734" alt="image" src="https://github.com/user-attachments/assets/7639a4c5-1b69-4408-a963-2923db677be6" />
+
+ En automatico te da el correo exitosamente 
+ <img width="1391" height="704" alt="image" src="https://github.com/user-attachments/assets/74a7223b-84e4-42f2-a2c6-77c256f74c6e" />
+
+Te da un PDF 
+
+<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/6dd66443-0ae6-4315-a635-4eef737d92d0" />
+
+asi mismo no da ver el seguimiento del pedido
+
+<img width="1140" height="513" alt="image" src="https://github.com/user-attachments/assets/17c98dab-f231-49db-851e-03553e0a5007" />
+
+<img width="1097" height="615" alt="image" src="https://github.com/user-attachments/assets/fa512094-e99f-4a54-ac56-5dffaf428f8e" />
+
+<img width="1117" height="587" alt="image" src="https://github.com/user-attachments/assets/cede43ad-e7b2-4e32-8a2c-f074fda370ef" />
+
+Tambien tenemos el apartado de ofertas 
+
+<img width="1179" height="783" alt="image" src="https://github.com/user-attachments/assets/df4a318d-f77f-4d58-98f5-96a67f47d28d" />
+
+
 
 ## Conclusión
 
