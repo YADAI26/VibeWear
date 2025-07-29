@@ -1,0 +1,8 @@
+# Laravel
+/tienda-api/vendor/
+/tienda-api/node_modules/
+/tienda-api/.env
+
+# Angular
+/angular-ProyectoVentaRopa/node_modules/
+/angular-ProyectoVentaRopa/dist/
